@@ -1,9 +1,3 @@
-# base64
-简化接口，调用非常简单
-
-# 简单应用实例
-
-```c++
 #include <stdio.h>
 #include "base64.h"
 using namespace std;
@@ -26,4 +20,3 @@ int main(void)
 
 	return 0;
 }
-```
